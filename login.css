@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 250px;
+    width: 520px;
+    border: 1px solid ;
+    padding-left: 10px;
+    position: absolute;
+    top:230px;
+    left: 450px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 3px black;
+}
+.container h2 {
+    margin: 20px 5px;
+}
+
+input[type=tel]
+{
+    height: 42px;
+    width: 405px;
+    border-radius: 7px;
+    margin: 5px 5px;
+}
+.select{
+    width: 82px;
+    height: 42px;
+    border-radius: 7px;
+}
+.ch {
+    margin-right: 30px;
+    height: 15px;
+    width: 15px;
+}
+hr {
+    margin: 10px 10px 10px 0;
+
+}
+#btn{
+    height: 42px;
+    width: 500px;
+    border-radius: 8px;
+
+}
+
